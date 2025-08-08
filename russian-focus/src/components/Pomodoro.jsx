@@ -21,7 +21,7 @@ export function Pomodoro() {
       setMode(nextMode)
       const next = (nextMode === 'work' ? workLen : breakLen) * 60
       setSeconds(next)
-      try { new AudioContext() } catch {}
+      try { new AudioContext() } catch { /* ignore */ }
       if ('speechSynthesis' in window) {
         const u = new SpeechSynthesisUtterance(nextMode === 'work' ? 'Back to work' : 'Take a short break')
         u.lang = 'en-US'

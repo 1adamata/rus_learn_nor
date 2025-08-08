@@ -256,3 +256,51 @@ button, input { font: inherit; }
 }
 .deck-card__title { font-weight: 700; margin-bottom: 6px; }
 .deck-card__meta { color: var(--muted); }
+
+/* Mobile layout adjustments */
+@media (max-width: 600px) {
+  .app__header {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto;
+    gap: 8px;
+  }
+
+  .app__nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .app__tools {
+    justify-content: flex-start;
+  }
+
+  .lessons {
+    grid-template-columns: 1fr;
+  }
+
+  .lessons__menu {
+    position: static;
+    top: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+
+  .phrase-list li {
+    grid-template-columns: 1fr;
+  }
+
+  .phrase-list .en,
+  .phrase-list .tools {
+    grid-column: 1;
+    grid-row: auto;
+  }
+
+  .phrase-list .tools {
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+  }
+}
