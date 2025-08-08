@@ -1,0 +1,46 @@
+{
+  "cards": [
+    {
+      "russian": "Ресторан",
+      "transliteration": "Restoran",
+      "norwegian": "Restaurant",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=🍽️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Меню",
+      "transliteration": "Menyu",
+      "norwegian": "Meny",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=📋",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Официант",
+      "transliteration": "Ofitsiant",
+      "norwegian": "Servitør",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=🧑‍🍳",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Заказать",
+      "transliteration": "Zakazat'",
+      "norwegian": "Å bestille",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=📝",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Счёт",
+      "transliteration": "Schyot",
+      "norwegian": "Regning",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=🧾",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Вкусно",
+      "transliteration": "Vkusno",
+      "norwegian": "Deilig",
+      "image": "https://placehold.co/128x128/f472b6/ffffff?text=😋",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

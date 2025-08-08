@@ -1,0 +1,60 @@
+{
+  "cards": [
+    {
+      "russian": "Кошка",
+      "transliteration": "Koshka",
+      "norwegian": "Katt",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=🐱",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Собака",
+      "transliteration": "Sobaka",
+      "norwegian": "Hund",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=🐶",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Птица",
+      "transliteration": "Ptitsa",
+      "norwegian": "Fugl",
+      "image": "https://placehold.co/128x128/fdba74/ffffff?text=🐦",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Рыба",
+      "transliteration": "Ryba",
+      "norwegian": "Fisk",
+      "image": "https://placehold.co/128x128/6ee7b7/ffffff?text=🐟",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Лошадь",
+      "transliteration": "Loshad",
+      "norwegian": "Hest",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=🐴",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Медведь",
+      "transliteration": "Medved",
+      "norwegian": "Bjørn",
+      "image": "https://placehold.co/128x128/c4b5fd/ffffff?text=🐻",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Волк",
+      "transliteration": "Volk",
+      "norwegian": "Ulv",
+      "image": "https://placehold.co/128x128/a1a1aa/ffffff?text=🐺",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Лиса",
+      "transliteration": "Lisa",
+      "norwegian": "Rev",
+      "image": "https://placehold.co/128x128/f97316/ffffff?text=🦊",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

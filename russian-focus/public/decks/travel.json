@@ -1,0 +1,46 @@
+{
+  "cards": [
+    {
+      "russian": "Аэропорт",
+      "transliteration": "Aeroport",
+      "norwegian": "Flyplass",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=✈️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Вокзал",
+      "transliteration": "Vokzal",
+      "norwegian": "Togstasjon",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=🚂",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Автобус",
+      "transliteration": "Avtobus",
+      "norwegian": "Buss",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=🚌",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Поезд",
+      "transliteration": "Poyezd",
+      "norwegian": "Tog",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=🚆",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Метро",
+      "transliteration": "Metro",
+      "norwegian": "T-bane",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=🚇",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Билет",
+      "transliteration": "Bilet",
+      "norwegian": "Billett",
+      "image": "https://placehold.co/128x128/c084fc/ffffff?text=🎫",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

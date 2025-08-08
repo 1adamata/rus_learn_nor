@@ -1,0 +1,86 @@
+[
+  {
+    "key": "greetings",
+    "name": "Hilsener (Greetings)",
+    "path": "/decks/greetings.json",
+    "count": 6
+  },
+  {
+    "key": "numbers",
+    "name": "Tall (Numbers)",
+    "path": "/decks/numbers.json",
+    "count": 10
+  },
+  {
+    "key": "family",
+    "name": "Familie (Family)",
+    "path": "/decks/family.json",
+    "count": 9
+  },
+  {
+    "key": "colors",
+    "name": "Farger (Colors)",
+    "path": "/decks/colors.json",
+    "count": 8
+  },
+  {
+    "key": "body",
+    "name": "Kropp (Body Parts)",
+    "path": "/decks/body.json",
+    "count": 8
+  },
+  {
+    "key": "weather",
+    "name": "Vær (Weather)",
+    "path": "/decks/weather.json",
+    "count": 7
+  },
+  {
+    "key": "shopping",
+    "name": "Shopping (Shopping)",
+    "path": "/decks/shopping.json",
+    "count": 7
+  },
+  {
+    "key": "travel",
+    "name": "Reise (Travel)",
+    "path": "/decks/travel.json",
+    "count": 6
+  },
+  {
+    "key": "restaurant",
+    "name": "Restaurant (Restaurant)",
+    "path": "/decks/restaurant.json",
+    "count": 6
+  },
+  {
+    "key": "emotions",
+    "name": "Følelser (Emotions)",
+    "path": "/decks/emotions.json",
+    "count": 7
+  },
+  {
+    "key": "work",
+    "name": "Arbeid (Work & Study)",
+    "path": "/decks/work.json",
+    "count": 8
+  },
+  {
+    "key": "house",
+    "name": "Hjem (House & Home)",
+    "path": "/decks/house.json",
+    "count": 8
+  },
+  {
+    "key": "animals",
+    "name": "Dyr (Animals)",
+    "path": "/decks/animals.json",
+    "count": 8
+  },
+  {
+    "key": "food",
+    "name": "Mat (Food)",
+    "path": "/decks/food.json",
+    "count": 6
+  }
+]

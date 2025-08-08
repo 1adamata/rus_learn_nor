@@ -1,0 +1,60 @@
+{
+  "cards": [
+    {
+      "russian": "Голова",
+      "transliteration": "Golova",
+      "norwegian": "Hode",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=🗣️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Глаза",
+      "transliteration": "Glaza",
+      "norwegian": "Øyne",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=👀",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Нос",
+      "transliteration": "Nos",
+      "norwegian": "Nese",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=👃",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Рот",
+      "transliteration": "Rot",
+      "norwegian": "Munn",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=👄",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Рука",
+      "transliteration": "Ruka",
+      "norwegian": "Hånd/Arm",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=✋",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Нога",
+      "transliteration": "Noga",
+      "norwegian": "Ben/Fot",
+      "image": "https://placehold.co/128x128/c084fc/ffffff?text=🦵",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Спина",
+      "transliteration": "Spina",
+      "norwegian": "Rygg",
+      "image": "https://placehold.co/128x128/fb7185/ffffff?text=🫂",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Живот",
+      "transliteration": "Zhivot",
+      "norwegian": "Mage",
+      "image": "https://placehold.co/128x128/f472b6/ffffff?text=🤰",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

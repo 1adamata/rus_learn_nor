@@ -1,0 +1,14 @@
+[
+  {
+    "key": "animals",
+    "name": "Dyr (Animals)",
+    "path": "/decks/animals.json",
+    "count": 8
+  },
+  {
+    "key": "food",
+    "name": "Mat (Food)",
+    "path": "/decks/food.json",
+    "count": 6
+  }
+]

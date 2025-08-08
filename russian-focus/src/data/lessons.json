@@ -1,0 +1,878 @@
+[
+  {
+    "id": 1,
+    "title": "01 • Greetings",
+    "hint": "Russian stress matters: Privét (привет) is informal; Zdrávstvuyte (здравствуйте) is formal.",
+    "phrases": [
+      {
+        "ru": "Привет!",
+        "en": "Hi!"
+      },
+      {
+        "ru": "Здравствуйте!",
+        "en": "Hello! (formal)"
+      },
+      {
+        "ru": "Как дела?",
+        "en": "How are you?"
+      },
+      {
+        "ru": "Хорошо, спасибо.",
+        "en": "Good, thanks."
+      },
+      {
+        "ru": "Пожалуйста.",
+        "en": "Please / You're welcome."
+      },
+      {
+        "ru": "До свидания!",
+        "en": "Goodbye!"
+      },
+      {
+        "ru": "Увидимся!",
+        "en": "See you later!"
+      },
+      {
+        "ru": "Спокойной ночи.",
+        "en": "Good night."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "02 • Basics",
+    "hint": "Russian uses Cyrillic. Take it slowly; focus on a few letters per day.",
+    "phrases": [
+      {
+        "ru": "Да / Нет",
+        "en": "Yes / No"
+      },
+      {
+        "ru": "Я из Норвегии.",
+        "en": "I am from Norway."
+      },
+      {
+        "ru": "Я изучаю русский.",
+        "en": "I am learning Russian."
+      },
+      {
+        "ru": "Где туалет?",
+        "en": "Where is the toilet?"
+      },
+      {
+        "ru": "Сколько это стоит?",
+        "en": "How much is this?"
+      },
+      {
+        "ru": "Я не понимаю.",
+        "en": "I don't understand."
+      },
+      {
+        "ru": "Повторите, пожалуйста.",
+        "en": "Please repeat."
+      },
+      {
+        "ru": "Говорите медленнее.",
+        "en": "Speak slower."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "03 • Travel",
+    "hint": "Chunk tasks: learn transport words today, routes tomorrow.",
+    "phrases": [
+      {
+        "ru": "Аэропорт",
+        "en": "Airport"
+      },
+      {
+        "ru": "Вокзал",
+        "en": "Train station"
+      },
+      {
+        "ru": "Мне нужен билет.",
+        "en": "I need a ticket."
+      },
+      {
+        "ru": "Где остановка автобуса?",
+        "en": "Where is the bus stop?"
+      },
+      {
+        "ru": "Мне нужно в центр.",
+        "en": "I need to go to the city center."
+      },
+      {
+        "ru": "Автобус",
+        "en": "Bus"
+      },
+      {
+        "ru": "Поезд",
+        "en": "Train"
+      },
+      {
+        "ru": "Метро",
+        "en": "Metro/Subway"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "04 • Numbers",
+    "hint": "Master 1-10 first, then build up. Russian numbers change form with cases.",
+    "phrases": [
+      {
+        "ru": "один",
+        "en": "one"
+      },
+      {
+        "ru": "два",
+        "en": "two"
+      },
+      {
+        "ru": "три",
+        "en": "three"
+      },
+      {
+        "ru": "четыре",
+        "en": "four"
+      },
+      {
+        "ru": "пять",
+        "en": "five"
+      },
+      {
+        "ru": "шесть",
+        "en": "six"
+      },
+      {
+        "ru": "семь",
+        "en": "seven"
+      },
+      {
+        "ru": "восемь",
+        "en": "eight"
+      },
+      {
+        "ru": "девять",
+        "en": "nine"
+      },
+      {
+        "ru": "десять",
+        "en": "ten"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "05 • Family",
+    "hint": "Family words are essential. Notice how Russian distinguishes older/younger siblings.",
+    "phrases": [
+      {
+        "ru": "семья",
+        "en": "family"
+      },
+      {
+        "ru": "мама",
+        "en": "mom"
+      },
+      {
+        "ru": "папа",
+        "en": "dad"
+      },
+      {
+        "ru": "сын",
+        "en": "son"
+      },
+      {
+        "ru": "дочь",
+        "en": "daughter"
+      },
+      {
+        "ru": "брат",
+        "en": "brother"
+      },
+      {
+        "ru": "сестра",
+        "en": "sister"
+      },
+      {
+        "ru": "дедушка",
+        "en": "grandfather"
+      },
+      {
+        "ru": "бабушка",
+        "en": "grandmother"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "06 • Food & Drinks",
+    "hint": "Food vocabulary is practical and frequent. Notice Russian borrows some food words.",
+    "phrases": [
+      {
+        "ru": "еда",
+        "en": "food"
+      },
+      {
+        "ru": "хлеб",
+        "en": "bread"
+      },
+      {
+        "ru": "молоко",
+        "en": "milk"
+      },
+      {
+        "ru": "вода",
+        "en": "water"
+      },
+      {
+        "ru": "чай",
+        "en": "tea"
+      },
+      {
+        "ru": "кофе",
+        "en": "coffee"
+      },
+      {
+        "ru": "мясо",
+        "en": "meat"
+      },
+      {
+        "ru": "рыба",
+        "en": "fish"
+      },
+      {
+        "ru": "овощи",
+        "en": "vegetables"
+      },
+      {
+        "ru": "фрукты",
+        "en": "fruits"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "07 • Time & Days",
+    "hint": "Time expressions are crucial. Russian uses different cases for time phrases.",
+    "phrases": [
+      {
+        "ru": "время",
+        "en": "time"
+      },
+      {
+        "ru": "сегодня",
+        "en": "today"
+      },
+      {
+        "ru": "вчера",
+        "en": "yesterday"
+      },
+      {
+        "ru": "завтра",
+        "en": "tomorrow"
+      },
+      {
+        "ru": "понедельник",
+        "en": "Monday"
+      },
+      {
+        "ru": "вторник",
+        "en": "Tuesday"
+      },
+      {
+        "ru": "среда",
+        "en": "Wednesday"
+      },
+      {
+        "ru": "четверг",
+        "en": "Thursday"
+      },
+      {
+        "ru": "пятница",
+        "en": "Friday"
+      },
+      {
+        "ru": "суббота",
+        "en": "Saturday"
+      },
+      {
+        "ru": "воскресенье",
+        "en": "Sunday"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "08 • Colors",
+    "hint": "Colors agree with gender and case in Russian. Start with basic ones.",
+    "phrases": [
+      {
+        "ru": "цвет",
+        "en": "color"
+      },
+      {
+        "ru": "красный",
+        "en": "red"
+      },
+      {
+        "ru": "синий",
+        "en": "blue"
+      },
+      {
+        "ru": "зелёный",
+        "en": "green"
+      },
+      {
+        "ru": "жёлтый",
+        "en": "yellow"
+      },
+      {
+        "ru": "белый",
+        "en": "white"
+      },
+      {
+        "ru": "чёрный",
+        "en": "black"
+      },
+      {
+        "ru": "серый",
+        "en": "gray"
+      },
+      {
+        "ru": "коричневый",
+        "en": "brown"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "09 • Body Parts",
+    "hint": "Useful for health situations and descriptions. Many are cognates with other languages.",
+    "phrases": [
+      {
+        "ru": "тело",
+        "en": "body"
+      },
+      {
+        "ru": "голова",
+        "en": "head"
+      },
+      {
+        "ru": "глаза",
+        "en": "eyes"
+      },
+      {
+        "ru": "нос",
+        "en": "nose"
+      },
+      {
+        "ru": "рот",
+        "en": "mouth"
+      },
+      {
+        "ru": "рука",
+        "en": "hand/arm"
+      },
+      {
+        "ru": "нога",
+        "en": "leg/foot"
+      },
+      {
+        "ru": "спина",
+        "en": "back"
+      },
+      {
+        "ru": "живот",
+        "en": "stomach"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "10 • Weather",
+    "hint": "Weather talk is universal. Russian has specific patterns for weather descriptions.",
+    "phrases": [
+      {
+        "ru": "погода",
+        "en": "weather"
+      },
+      {
+        "ru": "солнце",
+        "en": "sun"
+      },
+      {
+        "ru": "дождь",
+        "en": "rain"
+      },
+      {
+        "ru": "снег",
+        "en": "snow"
+      },
+      {
+        "ru": "ветер",
+        "en": "wind"
+      },
+      {
+        "ru": "холодно",
+        "en": "cold"
+      },
+      {
+        "ru": "тепло",
+        "en": "warm"
+      },
+      {
+        "ru": "жарко",
+        "en": "hot"
+      },
+      {
+        "ru": "Какая погода?",
+        "en": "What's the weather like?"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "11 • Shopping",
+    "hint": "Essential for daily life. Learn polite shopping phrases and currency words.",
+    "phrases": [
+      {
+        "ru": "магазин",
+        "en": "store"
+      },
+      {
+        "ru": "покупать",
+        "en": "to buy"
+      },
+      {
+        "ru": "продавать",
+        "en": "to sell"
+      },
+      {
+        "ru": "деньги",
+        "en": "money"
+      },
+      {
+        "ru": "рубль",
+        "en": "ruble"
+      },
+      {
+        "ru": "Сколько стоит?",
+        "en": "How much does it cost?"
+      },
+      {
+        "ru": "Это дорого.",
+        "en": "This is expensive."
+      },
+      {
+        "ru": "Это дёшево.",
+        "en": "This is cheap."
+      },
+      {
+        "ru": "касса",
+        "en": "cashier/checkout"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "12 • Directions",
+    "hint": "Navigation essentials. Russian uses specific prepositions for directions.",
+    "phrases": [
+      {
+        "ru": "направление",
+        "en": "direction"
+      },
+      {
+        "ru": "прямо",
+        "en": "straight"
+      },
+      {
+        "ru": "налево",
+        "en": "to the left"
+      },
+      {
+        "ru": "направо",
+        "en": "to the right"
+      },
+      {
+        "ru": "север",
+        "en": "north"
+      },
+      {
+        "ru": "юг",
+        "en": "south"
+      },
+      {
+        "ru": "восток",
+        "en": "east"
+      },
+      {
+        "ru": "запад",
+        "en": "west"
+      },
+      {
+        "ru": "Где находится...?",
+        "en": "Where is located...?"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "13 • At the Restaurant",
+    "hint": "Dining vocabulary for social situations. Learn menu and ordering phrases.",
+    "phrases": [
+      {
+        "ru": "ресторан",
+        "en": "restaurant"
+      },
+      {
+        "ru": "меню",
+        "en": "menu"
+      },
+      {
+        "ru": "официант",
+        "en": "waiter"
+      },
+      {
+        "ru": "заказать",
+        "en": "to order"
+      },
+      {
+        "ru": "счёт",
+        "en": "bill"
+      },
+      {
+        "ru": "Можно меню?",
+        "en": "Can I have the menu?"
+      },
+      {
+        "ru": "Я буду...",
+        "en": "I will have..."
+      },
+      {
+        "ru": "Это очень вкусно!",
+        "en": "This is very delicious!"
+      },
+      {
+        "ru": "Счёт, пожалуйста.",
+        "en": "The bill, please."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "14 • Emotions",
+    "hint": "Express your feelings. Russian has rich emotional vocabulary.",
+    "phrases": [
+      {
+        "ru": "чувство",
+        "en": "feeling"
+      },
+      {
+        "ru": "счастливый",
+        "en": "happy"
+      },
+      {
+        "ru": "грустный",
+        "en": "sad"
+      },
+      {
+        "ru": "злой",
+        "en": "angry"
+      },
+      {
+        "ru": "усталый",
+        "en": "tired"
+      },
+      {
+        "ru": "весёлый",
+        "en": "cheerful"
+      },
+      {
+        "ru": "скучный",
+        "en": "boring"
+      },
+      {
+        "ru": "интересный",
+        "en": "interesting"
+      },
+      {
+        "ru": "Мне грустно.",
+        "en": "I am sad."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "15 • Work & Study",
+    "hint": "Professional and academic vocabulary. Useful for business and education contexts.",
+    "phrases": [
+      {
+        "ru": "работа",
+        "en": "work"
+      },
+      {
+        "ru": "учёба",
+        "en": "study"
+      },
+      {
+        "ru": "офис",
+        "en": "office"
+      },
+      {
+        "ru": "школа",
+        "en": "school"
+      },
+      {
+        "ru": "университет",
+        "en": "university"
+      },
+      {
+        "ru": "учитель",
+        "en": "teacher"
+      },
+      {
+        "ru": "студент",
+        "en": "student"
+      },
+      {
+        "ru": "книга",
+        "en": "book"
+      },
+      {
+        "ru": "урок",
+        "en": "lesson"
+      },
+      {
+        "ru": "экзамен",
+        "en": "exam"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "16 • House & Home",
+    "hint": "Domestic vocabulary for daily life. Learn room names and household items.",
+    "phrases": [
+      {
+        "ru": "дом",
+        "en": "house"
+      },
+      {
+        "ru": "квартира",
+        "en": "apartment"
+      },
+      {
+        "ru": "комната",
+        "en": "room"
+      },
+      {
+        "ru": "кухня",
+        "en": "kitchen"
+      },
+      {
+        "ru": "спальня",
+        "en": "bedroom"
+      },
+      {
+        "ru": "ванная",
+        "en": "bathroom"
+      },
+      {
+        "ru": "гостиная",
+        "en": "living room"
+      },
+      {
+        "ru": "окно",
+        "en": "window"
+      },
+      {
+        "ru": "дверь",
+        "en": "door"
+      },
+      {
+        "ru": "стол",
+        "en": "table"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "17 • Technology",
+    "hint": "Modern vocabulary for digital life. Many tech words are borrowed from English.",
+    "phrases": [
+      {
+        "ru": "компьютер",
+        "en": "computer"
+      },
+      {
+        "ru": "телефон",
+        "en": "phone"
+      },
+      {
+        "ru": "интернет",
+        "en": "internet"
+      },
+      {
+        "ru": "сайт",
+        "en": "website"
+      },
+      {
+        "ru": "электронная почта",
+        "en": "email"
+      },
+      {
+        "ru": "пароль",
+        "en": "password"
+      },
+      {
+        "ru": "фотография",
+        "en": "photograph"
+      },
+      {
+        "ru": "видео",
+        "en": "video"
+      },
+      {
+        "ru": "музыка",
+        "en": "music"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "18 • Health",
+    "hint": "Important for emergencies and medical situations. Learn symptoms and basic medical terms.",
+    "phrases": [
+      {
+        "ru": "здоровье",
+        "en": "health"
+      },
+      {
+        "ru": "больница",
+        "en": "hospital"
+      },
+      {
+        "ru": "врач",
+        "en": "doctor"
+      },
+      {
+        "ru": "лекарство",
+        "en": "medicine"
+      },
+      {
+        "ru": "болеть",
+        "en": "to be sick"
+      },
+      {
+        "ru": "температура",
+        "en": "temperature"
+      },
+      {
+        "ru": "У меня болит голова.",
+        "en": "I have a headache."
+      },
+      {
+        "ru": "Вызовите врача!",
+        "en": "Call a doctor!"
+      },
+      {
+        "ru": "аптека",
+        "en": "pharmacy"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "19 • Sports & Hobbies",
+    "hint": "Leisure activities and sports. Great for social conversations and personal interests.",
+    "phrases": [
+      {
+        "ru": "спорт",
+        "en": "sport"
+      },
+      {
+        "ru": "футбол",
+        "en": "football/soccer"
+      },
+      {
+        "ru": "хоккей",
+        "en": "hockey"
+      },
+      {
+        "ru": "плавание",
+        "en": "swimming"
+      },
+      {
+        "ru": "бег",
+        "en": "running"
+      },
+      {
+        "ru": "хобби",
+        "en": "hobby"
+      },
+      {
+        "ru": "читать",
+        "en": "to read"
+      },
+      {
+        "ru": "играть",
+        "en": "to play"
+      },
+      {
+        "ru": "смотреть фильмы",
+        "en": "to watch movies"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "20 • Animals",
+    "hint": "Animal vocabulary is fun and useful. Many children's books use animal stories.",
+    "phrases": [
+      {
+        "ru": "животное",
+        "en": "animal"
+      },
+      {
+        "ru": "кот",
+        "en": "cat"
+      },
+      {
+        "ru": "собака",
+        "en": "dog"
+      },
+      {
+        "ru": "птица",
+        "en": "bird"
+      },
+      {
+        "ru": "рыба",
+        "en": "fish"
+      },
+      {
+        "ru": "лошадь",
+        "en": "horse"
+      },
+      {
+        "ru": "корова",
+        "en": "cow"
+      },
+      {
+        "ru": "медведь",
+        "en": "bear"
+      },
+      {
+        "ru": "волк",
+        "en": "wolf"
+      },
+      {
+        "ru": "лиса",
+        "en": "fox"
+      }
+    ]
+  }
+]

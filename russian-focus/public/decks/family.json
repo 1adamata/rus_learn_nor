@@ -1,0 +1,67 @@
+{
+  "cards": [
+    {
+      "russian": "Семья",
+      "transliteration": "Sem'ya",
+      "norwegian": "Familie",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=👨‍👩‍👧‍👦",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Мама",
+      "transliteration": "Mama",
+      "norwegian": "Mamma",
+      "image": "https://placehold.co/128x128/f472b6/ffffff?text=👩",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Папа",
+      "transliteration": "Papa",
+      "norwegian": "Pappa",
+      "image": "https://placehold.co/128x128/60a5fa/ffffff?text=👨",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Сын",
+      "transliteration": "Syn",
+      "norwegian": "Sønn",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=👦",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Дочь",
+      "transliteration": "Doch'",
+      "norwegian": "Datter",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=👧",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Брат",
+      "transliteration": "Brat",
+      "norwegian": "Bror",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=👨‍👦",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Сестра",
+      "transliteration": "Sestra",
+      "norwegian": "Søster",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=👩‍👧",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Дедушка",
+      "transliteration": "Dedushka",
+      "norwegian": "Bestefar",
+      "image": "https://placehold.co/128x128/c084fc/ffffff?text=👴",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Бабушка",
+      "transliteration": "Babushka",
+      "norwegian": "Bestemor",
+      "image": "https://placehold.co/128x128/fb7185/ffffff?text=👵",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

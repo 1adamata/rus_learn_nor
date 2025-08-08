@@ -1,0 +1,60 @@
+{
+  "cards": [
+    {
+      "russian": "Дом",
+      "transliteration": "Dom",
+      "norwegian": "Hus",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=🏠",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Квартира",
+      "transliteration": "Kvartira",
+      "norwegian": "Leilighet",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=🏢",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Кухня",
+      "transliteration": "Kukhnya",
+      "norwegian": "Kjøkken",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=🍳",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Спальня",
+      "transliteration": "Spal'nya",
+      "norwegian": "Soverom",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=🛏️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Ванная",
+      "transliteration": "Vannaya",
+      "norwegian": "Bad",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=🚿",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Гостиная",
+      "transliteration": "Gostinaya",
+      "norwegian": "Stue",
+      "image": "https://placehold.co/128x128/c084fc/ffffff?text=🛋️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Окно",
+      "transliteration": "Okno",
+      "norwegian": "Vindu",
+      "image": "https://placehold.co/128x128/fb7185/ffffff?text=🪟",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Дверь",
+      "transliteration": "Dver'",
+      "norwegian": "Dør",
+      "image": "https://placehold.co/128x128/f472b6/ffffff?text=🚪",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

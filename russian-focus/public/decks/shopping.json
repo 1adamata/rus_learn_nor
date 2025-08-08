@@ -1,0 +1,53 @@
+{
+  "cards": [
+    {
+      "russian": "Магазин",
+      "transliteration": "Magazin",
+      "norwegian": "Butikk",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=🏪",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Деньги",
+      "transliteration": "Den'gi",
+      "norwegian": "Penger",
+      "image": "https://placehold.co/128x128/22c55e/ffffff?text=💰",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Рубль",
+      "transliteration": "Rubl'",
+      "norwegian": "Rubel",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=₽",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Касса",
+      "transliteration": "Kassa",
+      "norwegian": "Kasse",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=🏧",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Покупать",
+      "transliteration": "Pokupat'",
+      "norwegian": "Å kjøpe",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=🛒",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Дорого",
+      "transliteration": "Dorogo",
+      "norwegian": "Dyrt",
+      "image": "https://placehold.co/128x128/ef4444/ffffff?text=💸",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Дёшево",
+      "transliteration": "Dyoshevo",
+      "norwegian": "Billig",
+      "image": "https://placehold.co/128x128/22c55e/ffffff?text=💵",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

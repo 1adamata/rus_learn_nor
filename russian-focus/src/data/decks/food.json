@@ -1,0 +1,46 @@
+{
+  "cards": [
+    {
+      "russian": "Хлеб",
+      "transliteration": "Khleb",
+      "norwegian": "Brød",
+      "image": "https://placehold.co/128x128/f59e0b/ffffff?text=🍞",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Молоко",
+      "transliteration": "Moloko",
+      "norwegian": "Melk",
+      "image": "https://placehold.co/128x128/e2e8f0/ffffff?text=🥛",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Сыр",
+      "transliteration": "Syr",
+      "norwegian": "Ost",
+      "image": "https://placehold.co/128x128/facc15/ffffff?text=🧀",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Яблоко",
+      "transliteration": "Yabloko",
+      "norwegian": "Eple",
+      "image": "https://placehold.co/128x128/ef4444/ffffff?text=🍎",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Вода",
+      "transliteration": "Voda",
+      "norwegian": "Vann",
+      "image": "https://placehold.co/128x128/38bdf8/ffffff?text=💧",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Кофе",
+      "transliteration": "Kofe",
+      "norwegian": "Kaffe",
+      "image": "https://placehold.co/128x128/78350f/ffffff?text=☕",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "cards": [
+    {
+      "russian": "Красный",
+      "transliteration": "Krasnyy",
+      "norwegian": "Rød",
+      "image": "https://placehold.co/128x128/ef4444/ffffff?text=🔴",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Синий",
+      "transliteration": "Siniy",
+      "norwegian": "Blå",
+      "image": "https://placehold.co/128x128/3b82f6/ffffff?text=🔵",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Зелёный",
+      "transliteration": "Zelyonyy",
+      "norwegian": "Grønn",
+      "image": "https://placehold.co/128x128/22c55e/ffffff?text=🟢",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Жёлтый",
+      "transliteration": "Zholtyy",
+      "norwegian": "Gul",
+      "image": "https://placehold.co/128x128/eab308/ffffff?text=🟡",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Белый",
+      "transliteration": "Belyy",
+      "norwegian": "Hvit",
+      "image": "https://placehold.co/128x128/f8fafc/000000?text=⚪",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Чёрный",
+      "transliteration": "Chornyy",
+      "norwegian": "Svart",
+      "image": "https://placehold.co/128x128/1e293b/ffffff?text=⚫",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Серый",
+      "transliteration": "Seryy",
+      "norwegian": "Grå",
+      "image": "https://placehold.co/128x128/6b7280/ffffff?text=🔘",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Коричневый",
+      "transliteration": "Korichnevyy",
+      "norwegian": "Brun",
+      "image": "https://placehold.co/128x128/a16207/ffffff?text=🟤",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

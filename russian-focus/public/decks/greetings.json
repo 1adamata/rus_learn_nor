@@ -1,0 +1,46 @@
+{
+  "cards": [
+    {
+      "russian": "Привет",
+      "transliteration": "Privet",
+      "norwegian": "Hei",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=👋",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Здравствуйте",
+      "transliteration": "Zdravstvuyte",
+      "norwegian": "God dag (formell)",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=🤝",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Как дела?",
+      "transliteration": "Kak dela?",
+      "norwegian": "Hvordan har du det?",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=❓",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Спасибо",
+      "transliteration": "Spasibo",
+      "norwegian": "Takk",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=🙏",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "До свидания",
+      "transliteration": "Do svidaniya",
+      "norwegian": "Ha det",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=👋",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Пожалуйста",
+      "transliteration": "Pozhaluysta",
+      "norwegian": "Takk / Vær så snill",
+      "image": "https://placehold.co/128x128/c084fc/ffffff?text=🤲",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

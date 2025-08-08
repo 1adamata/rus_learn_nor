@@ -1,0 +1,53 @@
+{
+  "cards": [
+    {
+      "russian": "Солнце",
+      "transliteration": "Solntse",
+      "norwegian": "Sol",
+      "image": "https://placehold.co/128x128/fbbf24/ffffff?text=☀️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Дождь",
+      "transliteration": "Dozhd'",
+      "norwegian": "Regn",
+      "image": "https://placehold.co/128x128/3b82f6/ffffff?text=🌧️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Снег",
+      "transliteration": "Sneg",
+      "norwegian": "Snø",
+      "image": "https://placehold.co/128x128/e2e8f0/000000?text=❄️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Ветер",
+      "transliteration": "Veter",
+      "norwegian": "Vind",
+      "image": "https://placehold.co/128x128/6b7280/ffffff?text=💨",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Холодно",
+      "transliteration": "Kholodno",
+      "norwegian": "Kaldt",
+      "image": "https://placehold.co/128x128/60a5fa/ffffff?text=🥶",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Тепло",
+      "transliteration": "Teplo",
+      "norwegian": "Varmt",
+      "image": "https://placehold.co/128x128/f97316/ffffff?text=😊",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Жарко",
+      "transliteration": "Zharko",
+      "norwegian": "Hett",
+      "image": "https://placehold.co/128x128/dc2626/ffffff?text=🥵",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

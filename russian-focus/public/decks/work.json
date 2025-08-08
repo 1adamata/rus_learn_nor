@@ -1,0 +1,60 @@
+{
+  "cards": [
+    {
+      "russian": "Работа",
+      "transliteration": "Rabota",
+      "norwegian": "Jobb",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=💼",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Школа",
+      "transliteration": "Shkola",
+      "norwegian": "Skole",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=🏫",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Университет",
+      "transliteration": "Universitet",
+      "norwegian": "Universitet",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=🎓",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Учитель",
+      "transliteration": "Uchitel'",
+      "norwegian": "Lærer",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=🧑‍🏫",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Студент",
+      "transliteration": "Student",
+      "norwegian": "Student",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=🧑‍🎓",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Книга",
+      "transliteration": "Kniga",
+      "norwegian": "Bok",
+      "image": "https://placehold.co/128x128/c084fc/ffffff?text=📚",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Урок",
+      "transliteration": "Urok",
+      "norwegian": "Leksjon",
+      "image": "https://placehold.co/128x128/fb7185/ffffff?text=📖",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Экзамен",
+      "transliteration": "Ekzamen",
+      "norwegian": "Eksamen",
+      "image": "https://placehold.co/128x128/f472b6/ffffff?text=📝",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}
