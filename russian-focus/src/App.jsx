@@ -48,11 +48,6 @@ export default function App() {
 
   console.log('Current selected user:', selectedUser)
 
-  useEffect(() => {
-    document.documentElement.style.setProperty('--app-font-size', fontSize + 'px')
-    document.documentElement.style.setProperty('--app-line-height', lineHeight)
-  }, [fontSize, lineHeight])
-
   return (
     <div className={`app ${focus ? 'focus' : ''}`}>
       <header className="app__header">
