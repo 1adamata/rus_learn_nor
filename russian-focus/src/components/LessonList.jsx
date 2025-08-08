@@ -126,7 +126,6 @@ export function LessonList({ showHints, selectedUser }) {
                   <div className="en">{getTranslation(p)}</div>
                   <div className="tools">
                     <TTSButton text={p.ru} lang="ru-RU" />
-                    <button onClick={() => addToDeck({ ru: p.ru, en: getTranslation(p) })}>Add to deck</button>
                   </div>
                 </li>
               ))}
@@ -136,13 +135,4 @@ export function LessonList({ showHints, selectedUser }) {
       </section>
     </div>
   )
-}
-
-function addToDeck(card) {
-  const deck = JSON.parse(localStorage.getItem('deck') || '[]')
-  if (!deck.find(d => d.ru === card.ru)) {
-    deck.push({ ...card, box: 1, next: Date.now() })
-    localStorage.setItem('deck', JSON.stringify(deck))
-  }
-  alert('Added to flashcards ✅')
 }
