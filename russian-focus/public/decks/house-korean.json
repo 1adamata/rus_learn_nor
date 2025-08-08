@@ -1,0 +1,60 @@
+{
+  "cards": [
+    {
+      "russian": "Дом",
+      "transliteration": "Dom",
+      "korean": "집",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=🏠",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Квартира",
+      "transliteration": "Kvartira",
+      "korean": "아파트",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=🏢",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Кухня",
+      "transliteration": "Kukhnya",
+      "korean": "부엌",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=🍳",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Спальня",
+      "transliteration": "Spal'nya",
+      "korean": "침실",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=🛏️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Ванная",
+      "transliteration": "Vannaya",
+      "korean": "화장실",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=🚿",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Гостиная",
+      "transliteration": "Gostinaya",
+      "korean": "거실",
+      "image": "https://placehold.co/128x128/c084fc/ffffff?text=🛋️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Окно",
+      "transliteration": "Okno",
+      "korean": "창문",
+      "image": "https://placehold.co/128x128/fb7185/ffffff?text=🪟",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Дверь",
+      "transliteration": "Dver'",
+      "korean": "문",
+      "image": "https://placehold.co/128x128/f472b6/ffffff?text=🚪",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

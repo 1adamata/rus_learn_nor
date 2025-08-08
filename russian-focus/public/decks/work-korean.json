@@ -1,0 +1,60 @@
+{
+  "cards": [
+    {
+      "russian": "Работа",
+      "transliteration": "Rabota",
+      "korean": "일",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=💼",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Школа",
+      "transliteration": "Shkola",
+      "korean": "학교",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=🏫",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Университет",
+      "transliteration": "Universitet",
+      "korean": "대학교",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=🎓",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Учитель",
+      "transliteration": "Uchitel'",
+      "korean": "선생님",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=🧑‍🏫",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Студент",
+      "transliteration": "Student",
+      "korean": "학생",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=🧑‍🎓",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Книга",
+      "transliteration": "Kniga",
+      "korean": "책",
+      "image": "https://placehold.co/128x128/c084fc/ffffff?text=📚",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Урок",
+      "transliteration": "Urok",
+      "korean": "수업",
+      "image": "https://placehold.co/128x128/fb7185/ffffff?text=📖",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Экзамен",
+      "transliteration": "Ekzamen",
+      "korean": "시험",
+      "image": "https://placehold.co/128x128/f472b6/ffffff?text=📝",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

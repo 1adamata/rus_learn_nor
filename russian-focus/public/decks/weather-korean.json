@@ -1,0 +1,53 @@
+{
+  "cards": [
+    {
+      "russian": "Солнце",
+      "transliteration": "Solntse",
+      "korean": "태양",
+      "image": "https://placehold.co/128x128/fbbf24/ffffff?text=☀️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Дождь",
+      "transliteration": "Dozhd'",
+      "korean": "비",
+      "image": "https://placehold.co/128x128/3b82f6/ffffff?text=🌧️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Снег",
+      "transliteration": "Sneg",
+      "korean": "눈",
+      "image": "https://placehold.co/128x128/e2e8f0/000000?text=❄️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Ветер",
+      "transliteration": "Veter",
+      "korean": "바람",
+      "image": "https://placehold.co/128x128/6b7280/ffffff?text=💨",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Холодно",
+      "transliteration": "Kholodno",
+      "korean": "춥다",
+      "image": "https://placehold.co/128x128/60a5fa/ffffff?text=🥶",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Тепло",
+      "transliteration": "Teplo",
+      "korean": "따뜻하다",
+      "image": "https://placehold.co/128x128/f97316/ffffff?text=😊",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Жарко",
+      "transliteration": "Zharko",
+      "korean": "덥다",
+      "image": "https://placehold.co/128x128/dc2626/ffffff?text=🥵",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

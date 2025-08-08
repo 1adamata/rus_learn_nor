@@ -1,0 +1,67 @@
+{
+  "cards": [
+    {
+      "russian": "Семья",
+      "transliteration": "Sem'ya",
+      "korean": "가족",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=👨‍👩‍👧‍👦",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Мама",
+      "transliteration": "Mama",
+      "korean": "엄마",
+      "image": "https://placehold.co/128x128/f472b6/ffffff?text=👩",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Папа",
+      "transliteration": "Papa",
+      "korean": "아빠",
+      "image": "https://placehold.co/128x128/60a5fa/ffffff?text=👨",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Сын",
+      "transliteration": "Syn",
+      "korean": "아들",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=👦",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Дочь",
+      "transliteration": "Doch'",
+      "korean": "딸",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=👧",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Брат",
+      "transliteration": "Brat",
+      "korean": "형/동생 (남자)",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=👨‍👦",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Сестра",
+      "transliteration": "Sestra",
+      "korean": "언니/누나/동생 (여자)",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=👩‍👧",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Дедушка",
+      "transliteration": "Dedushka",
+      "korean": "할아버지",
+      "image": "https://placehold.co/128x128/c084fc/ffffff?text=👴",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Бабушка",
+      "transliteration": "Babushka",
+      "korean": "할머니",
+      "image": "https://placehold.co/128x128/fb7185/ffffff?text=👵",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

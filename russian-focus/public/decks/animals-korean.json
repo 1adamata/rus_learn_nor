@@ -1,0 +1,60 @@
+{
+  "cards": [
+    {
+      "russian": "Кошка",
+      "transliteration": "Koshka",
+      "korean": "고양이",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=🐱",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Собака",
+      "transliteration": "Sobaka",
+      "korean": "개",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=🐶",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Птица",
+      "transliteration": "Ptitsa",
+      "korean": "새",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=🐦",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Рыба",
+      "transliteration": "Ryba",
+      "korean": "물고기",
+      "image": "https://placehold.co/128x128/60a5fa/ffffff?text=🐟",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Лошадь",
+      "transliteration": "Loshad'",
+      "korean": "말",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=🐴",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Корова",
+      "transliteration": "Korova",
+      "korean": "소",
+      "image": "https://placehold.co/128x128/c084fc/ffffff?text=🐄",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Медведь",
+      "transliteration": "Medved'",
+      "korean": "곰",
+      "image": "https://placehold.co/128x128/fb7185/ffffff?text=🐻",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Волк",
+      "transliteration": "Volk",
+      "korean": "늑대",
+      "image": "https://placehold.co/128x128/f472b6/ffffff?text=🐺",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

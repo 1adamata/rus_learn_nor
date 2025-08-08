@@ -1,0 +1,46 @@
+{
+  "cards": [
+    {
+      "russian": "Хлеб",
+      "transliteration": "Khleb",
+      "korean": "빵",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=🍞",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Молоко",
+      "transliteration": "Moloko",
+      "korean": "우유",
+      "image": "https://placehold.co/128x128/f8fafc/000000?text=🥛",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Вода",
+      "transliteration": "Voda",
+      "korean": "물",
+      "image": "https://placehold.co/128x128/60a5fa/ffffff?text=💧",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Чай",
+      "transliteration": "Chay",
+      "korean": "차",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=🍵",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Кофе",
+      "transliteration": "Kofe",
+      "korean": "커피",
+      "image": "https://placehold.co/128x128/a16207/ffffff?text=☕",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Мясо",
+      "transliteration": "Myaso",
+      "korean": "고기",
+      "image": "https://placehold.co/128x128/dc2626/ffffff?text=🥩",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

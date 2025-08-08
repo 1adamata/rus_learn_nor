@@ -1,0 +1,46 @@
+{
+  "cards": [
+    {
+      "russian": "Аэропорт",
+      "transliteration": "Aeroport",
+      "korean": "공항",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=✈️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Вокзал",
+      "transliteration": "Vokzal",
+      "korean": "기차역",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=🚂",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Автобус",
+      "transliteration": "Avtobus",
+      "korean": "버스",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=🚌",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Поезд",
+      "transliteration": "Poyezd",
+      "korean": "기차",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=🚆",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Метро",
+      "transliteration": "Metro",
+      "korean": "지하철",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=🚇",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Билет",
+      "transliteration": "Bilet",
+      "korean": "표",
+      "image": "https://placehold.co/128x128/c084fc/ffffff?text=🎫",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

@@ -104,6 +104,30 @@ button, input { font: inherit; }
   gap: 8px;
   position: sticky; top: 76px; height: fit-content;
 }
+.lessons__controls {
+  padding-bottom: 12px;
+  border-bottom: 1px solid #26314b;
+  margin-bottom: 8px;
+}
+.transcript-toggle {
+  width: 100%;
+  text-align: left;
+  border-radius: 12px;
+  background: var(--panel);
+  border: 1px solid #26314b;
+  color: var(--text);
+  padding: 10px 12px;
+  transition: all 0.3s ease;
+}
+.transcript-toggle:hover {
+  background: #1a2333;
+  border-color: var(--accent);
+}
+.transcript-toggle.active {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
 .lessons__menu button {
   text-align: left;
   border-radius: 12px;
@@ -123,15 +147,35 @@ button, input { font: inherit; }
 .phrase-list li {
   display: grid;
   grid-template-columns: 1fr 1fr auto;
-  align-items: center;
+  align-items: start;
   gap: 8px;
   background: var(--panel);
   padding: 10px;
   border: 1px solid #26314b;
   border-radius: 12px;
 }
-.phrase-list .ru { font-weight: 600; }
-.phrase-list .en { color: var(--muted); }
+.phrase-list .ru { 
+  font-weight: 600; 
+  grid-column: 1;
+}
+.phrase-list .transcript {
+  color: var(--accent);
+  font-style: italic;
+  font-size: 0.9rem;
+  margin-top: 4px;
+  grid-column: 1;
+}
+.phrase-list .en { 
+  color: var(--muted); 
+  grid-column: 2;
+  grid-row: 1 / span 2;
+  align-self: center;
+}
+.phrase-list .tools { 
+  grid-column: 3;
+  grid-row: 1 / span 2;
+  align-self: center;
+}
 .phrase-list .tools button { margin-left: 8px; }
 
 /* Flashcards */

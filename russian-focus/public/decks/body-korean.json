@@ -1,0 +1,60 @@
+{
+  "cards": [
+    {
+      "russian": "Голова",
+      "transliteration": "Golova",
+      "korean": "머리",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=🗣️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Глаза",
+      "transliteration": "Glaza",
+      "korean": "눈",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=👀",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Нос",
+      "transliteration": "Nos",
+      "korean": "코",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=👃",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Рот",
+      "transliteration": "Rot",
+      "korean": "입",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=👄",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Рука",
+      "transliteration": "Ruka",
+      "korean": "손/팔",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=✋",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Нога",
+      "transliteration": "Noga",
+      "korean": "다리/발",
+      "image": "https://placehold.co/128x128/c084fc/ffffff?text=🦵",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Спина",
+      "transliteration": "Spina",
+      "korean": "등",
+      "image": "https://placehold.co/128x128/fb7185/ffffff?text=🫂",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Живот",
+      "transliteration": "Zhivot",
+      "korean": "배",
+      "image": "https://placehold.co/128x128/f472b6/ffffff?text=🤰",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

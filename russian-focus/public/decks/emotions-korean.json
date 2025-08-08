@@ -1,0 +1,53 @@
+{
+  "cards": [
+    {
+      "russian": "Счастливый",
+      "transliteration": "Schastlivyy",
+      "korean": "행복한",
+      "image": "https://placehold.co/128x128/fbbf24/ffffff?text=😊",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Грустный",
+      "transliteration": "Grustnyy",
+      "korean": "슬픈",
+      "image": "https://placehold.co/128x128/6b7280/ffffff?text=😢",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Злой",
+      "transliteration": "Zloy",
+      "korean": "화난",
+      "image": "https://placehold.co/128x128/ef4444/ffffff?text=😠",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Усталый",
+      "transliteration": "Ustalyy",
+      "korean": "피곤한",
+      "image": "https://placehold.co/128x128/a78bfa/ffffff?text=😴",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Весёлый",
+      "transliteration": "Vesyolyy",
+      "korean": "즐거운",
+      "image": "https://placehold.co/128x128/22c55e/ffffff?text=😄",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Скучный",
+      "transliteration": "Skuchnyy",
+      "korean": "지루한",
+      "image": "https://placehold.co/128x128/94a3b8/ffffff?text=😑",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Интересный",
+      "transliteration": "Interesnyy",
+      "korean": "흥미로운",
+      "image": "https://placehold.co/128x128/f97316/ffffff?text=🤔",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "cards": [
+    {
+      "russian": "Ресторан",
+      "transliteration": "Restoran",
+      "korean": "식당",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=🍽️",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Меню",
+      "transliteration": "Menyu",
+      "korean": "메뉴",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=📋",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Официант",
+      "transliteration": "Ofitsiant",
+      "korean": "웨이터",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=🧑‍🍳",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Заказать",
+      "transliteration": "Zakazat'",
+      "korean": "주문하다",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=📝",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Счёт",
+      "transliteration": "Schyot",
+      "korean": "계산서",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=🧾",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Вкусно",
+      "transliteration": "Vkusno",
+      "korean": "맛있다",
+      "image": "https://placehold.co/128x128/f472b6/ffffff?text=😋",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

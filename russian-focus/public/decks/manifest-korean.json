@@ -18,10 +18,58 @@
     "count": 9
   },
   {
+    "key": "colors-ko",
+    "name": "색깔 (Colors)",
+    "path": "/decks/colors-korean.json",
+    "count": 8
+  },
+  {
+    "key": "body-ko",
+    "name": "몸 (Body Parts)",
+    "path": "/decks/body-korean.json",
+    "count": 8
+  },
+  {
+    "key": "weather-ko",
+    "name": "날씨 (Weather)",
+    "path": "/decks/weather-korean.json",
+    "count": 7
+  },
+  {
+    "key": "shopping-ko",
+    "name": "쇼핑 (Shopping)",
+    "path": "/decks/shopping-korean.json",
+    "count": 7
+  },
+  {
     "key": "travel-ko",
     "name": "여행 (Travel)",
     "path": "/decks/travel-korean.json",
     "count": 6
+  },
+  {
+    "key": "restaurant-ko",
+    "name": "식당 (Restaurant)",
+    "path": "/decks/restaurant-korean.json",
+    "count": 6
+  },
+  {
+    "key": "emotions-ko",
+    "name": "감정 (Emotions)",
+    "path": "/decks/emotions-korean.json",
+    "count": 7
+  },
+  {
+    "key": "work-ko",
+    "name": "일과 공부 (Work & Study)",
+    "path": "/decks/work-korean.json",
+    "count": 8
+  },
+  {
+    "key": "house-ko",
+    "name": "집 (House & Home)",
+    "path": "/decks/house-korean.json",
+    "count": 8
   },
   {
     "key": "animals-ko",

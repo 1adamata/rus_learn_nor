@@ -1,0 +1,60 @@
+{
+  "cards": [
+    {
+      "russian": "Красный",
+      "transliteration": "Krasnyy",
+      "korean": "빨간색",
+      "image": "https://placehold.co/128x128/ef4444/ffffff?text=🔴",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Синий",
+      "transliteration": "Siniy",
+      "korean": "파란색",
+      "image": "https://placehold.co/128x128/3b82f6/ffffff?text=🔵",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Зелёный",
+      "transliteration": "Zelyonyy",
+      "korean": "녹색",
+      "image": "https://placehold.co/128x128/22c55e/ffffff?text=🟢",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Жёлтый",
+      "transliteration": "Zholtyy",
+      "korean": "노란색",
+      "image": "https://placehold.co/128x128/eab308/ffffff?text=🟡",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Белый",
+      "transliteration": "Belyy",
+      "korean": "하얀색",
+      "image": "https://placehold.co/128x128/f8fafc/000000?text=⚪",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Чёрный",
+      "transliteration": "Chornyy",
+      "korean": "검은색",
+      "image": "https://placehold.co/128x128/1e293b/ffffff?text=⚫",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Серый",
+      "transliteration": "Seryy",
+      "korean": "회색",
+      "image": "https://placehold.co/128x128/6b7280/ffffff?text=🔘",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Коричневый",
+      "transliteration": "Korichnevyy",
+      "korean": "갈색",
+      "image": "https://placehold.co/128x128/a16207/ffffff?text=🟤",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "cards": [
+    {
+      "russian": "Магазин",
+      "transliteration": "Magazin",
+      "korean": "가게",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=🏪",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Деньги",
+      "transliteration": "Den'gi",
+      "korean": "돈",
+      "image": "https://placehold.co/128x128/22c55e/ffffff?text=💰",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Рубль",
+      "transliteration": "Rubl'",
+      "korean": "루블",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=₽",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Касса",
+      "transliteration": "Kassa",
+      "korean": "계산대",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=🏧",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Покупать",
+      "transliteration": "Pokupat'",
+      "korean": "사다",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=🛒",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Дорого",
+      "transliteration": "Dorogo",
+      "korean": "비싸다",
+      "image": "https://placehold.co/128x128/ef4444/ffffff?text=💸",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Дёшево",
+      "transliteration": "Dyoshevo",
+      "korean": "싸다",
+      "image": "https://placehold.co/128x128/22c55e/ffffff?text=💵",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}
