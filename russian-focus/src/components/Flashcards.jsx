@@ -1,5 +1,5 @@
 
-import React, { useEffect, useMemo, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { DeckPicker } from './DeckPicker.jsx'
 
 // JSON schema for cards in a deck:

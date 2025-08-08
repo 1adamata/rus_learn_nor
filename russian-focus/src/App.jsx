@@ -20,6 +20,7 @@ export default function App() {
   })
   const [view, setView] = useState('lessons')
   const [focus, setFocus] = useState(false)
+  const [navOpen, setNavOpen] = useState(false)
   const [fontSize, setFontSize] = useState(Number(localStorage.getItem('fontSize') || 18))
   const [lineHeight, setLineHeight] = useState(Number(localStorage.getItem('lineHeight') || 1.6))
   const [showHints, setShowHints] = useState(localStorage.getItem('showHints') !== 'false')
@@ -54,11 +55,26 @@ export default function App() {
         <h1>
           Добро пожаловать {selectedUser.flag} {selectedUser.name} | Russian Focus
         </h1>
-        <nav className="app__nav">
-          <button onClick={() => setView('lessons')} className={view === 'lessons' ? 'active' : ''}>Lessons</button>
-          <button onClick={() => setView('flashcards')} className={view === 'flashcards' ? 'active' : ''}>Flashcards</button>
-          <button onClick={() => setView('settings')} className={view === 'settings' ? 'active' : ''}>Settings</button>
-          <button onClick={handleSwitchUser} className="switch-user">Switch User</button>
+        <button
+          className="nav-toggle"
+          onClick={() => setNavOpen((o) => !o)}
+        >
+          ☰
+        </button>
+        <nav className={`app__nav ${navOpen ? 'is-open' : ''}`}>
+          <button
+            onClick={() => { setView('lessons'); setNavOpen(false) }}
+            className={view === 'lessons' ? 'active' : ''}
+          >Lessons</button>
+          <button
+            onClick={() => { setView('flashcards'); setNavOpen(false) }}
+            className={view === 'flashcards' ? 'active' : ''}
+          >Flashcards</button>
+          <button
+            onClick={() => { setView('settings'); setNavOpen(false) }}
+            className={view === 'settings' ? 'active' : ''}
+          >Settings</button>
+          <button onClick={() => { handleSwitchUser(); setNavOpen(false) }} className="switch-user">Switch User</button>
         </nav>
         <div className="app__tools">
           <Pomodoro />

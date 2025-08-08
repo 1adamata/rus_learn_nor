@@ -1,30 +1,13 @@
 
 import React, { useEffect, useState } from 'react'
 import lessonsNorwegian from '../data/lessons.json'
+import lessonsKorean from '../data/lessons-korean.json'
 import { TTSButton } from './TTSButton.jsx'
-
-// Dynamically import Korean lessons with fallback
-let lessonsKorean = lessonsNorwegian // Fallback to Norwegian
-try {
-  lessonsKorean = require('../data/lessons-korean.json')
-} catch (error) {
-  console.warn('Korean lessons not available, using Norwegian as fallback')
-  lessonsKorean = lessonsNorwegian
-}
 
 export function LessonList({ showHints, selectedUser }) {
   // Choose the appropriate lessons data based on selected user
-  let lessons = lessonsNorwegian // Default to Norwegian lessons
-  
-  try {
-    if (selectedUser?.id === 'jaeyoon') {
-      lessons = lessonsKorean
-    }
-  } catch (error) {
-    console.error('Error loading lessons:', error)
-    lessons = lessonsNorwegian // Fallback to Norwegian
-  }
-  
+  const lessons = selectedUser?.id === 'jaeyoon' ? lessonsKorean : lessonsNorwegian
+
   console.log('Using lessons data:', lessons?.length, 'lessons for user:', selectedUser?.name)
   
   const [openId, setOpenId] = useState(localStorage.getItem('openLesson') || lessons[0]?.id || 1)
