@@ -4,10 +4,10 @@ import { DeckPicker } from './DeckPicker.jsx'
 
 // JSON schema for cards in a deck:
 // { "cards": [
-//   { "russian": "Кошка", "transliteration": "Koshka", "norwegian": "Katt", "image": "https://...", "ttsLang": "ru-RU" }
+//   { "russian": "Кошка", "transliteration": "Koshka", "norwegian": "Katt", "korean": "고양이", "image": "https://...", "ttsLang": "ru-RU" }
 // ]}
 
-export function Flashcards() {
+export function Flashcards({ selectedUser }) {
   const [deckMeta, setDeckMeta] = useState(null) // { key, name, path }
   const [cards, setCards] = useState([])
   const [idx, setIdx] = useState(0)
@@ -23,6 +23,14 @@ export function Flashcards() {
   }, [deckMeta])
 
   const current = cards[idx] || null
+
+  const getTranslation = (card) => {
+    if (!card) return ''
+    if (selectedUser?.id === 'jaeyoon') {
+      return card.korean || card.norwegian || 'Translation not available'
+    }
+    return card.norwegian || card.korean || 'Translation not available'
+  }
 
   const next = () => {
     setIdx(i => (i + 1) % cards.length)
@@ -43,7 +51,7 @@ export function Flashcards() {
   }
 
   if (!deckMeta) {
-    return <DeckPicker onPick={setDeckMeta} />
+    return <DeckPicker onPick={setDeckMeta} selectedUser={selectedUser} />
   }
 
   if (!cards.length) {
@@ -61,9 +69,9 @@ export function Flashcards() {
             <div className="front-text">{current.russian}</div>
           </div>
           <div className="flip-card-back">
-            {current.image && <img src={current.image} alt={current.norwegian || current.transliteration} />}
+            {current.image && <img src={current.image} alt={getTranslation(current)} />}
             <div className="back-text">
-              <div className="nor">{current.norwegian}</div>
+              <div className="nor">{getTranslation(current)}</div>
               <div className="trl">{current.transliteration && `(${current.transliteration})`}</div>
             </div>
           </div>

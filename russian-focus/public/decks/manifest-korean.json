@@ -1,0 +1,38 @@
+[
+  {
+    "key": "greetings-ko",
+    "name": "인사 (Greetings)",
+    "path": "/decks/greetings-korean.json",
+    "count": 6
+  },
+  {
+    "key": "numbers-ko",
+    "name": "숫자 (Numbers)",
+    "path": "/decks/numbers-korean.json",
+    "count": 10
+  },
+  {
+    "key": "family-ko",
+    "name": "가족 (Family)",
+    "path": "/decks/family-korean.json",
+    "count": 9
+  },
+  {
+    "key": "travel-ko",
+    "name": "여행 (Travel)",
+    "path": "/decks/travel-korean.json",
+    "count": 6
+  },
+  {
+    "key": "animals-ko",
+    "name": "동물 (Animals)",
+    "path": "/decks/animals-korean.json",
+    "count": 8
+  },
+  {
+    "key": "food-ko",
+    "name": "음식 (Food)",
+    "path": "/decks/food-korean.json",
+    "count": 6
+  }
+]

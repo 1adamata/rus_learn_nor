@@ -1,0 +1,74 @@
+{
+  "cards": [
+    {
+      "russian": "Один",
+      "transliteration": "Odin",
+      "korean": "하나",
+      "image": "https://placehold.co/128x128/93c5fd/ffffff?text=1️⃣",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Два",
+      "transliteration": "Dva",
+      "korean": "둘",
+      "image": "https://placehold.co/128x128/a5b4fc/ffffff?text=2️⃣",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Три",
+      "transliteration": "Tri",
+      "korean": "셋",
+      "image": "https://placehold.co/128x128/fca5a5/ffffff?text=3️⃣",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Четыре",
+      "transliteration": "Chetyre",
+      "korean": "넷",
+      "image": "https://placehold.co/128x128/86efac/ffffff?text=4️⃣",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Пять",
+      "transliteration": "Pyat'",
+      "korean": "다섯",
+      "image": "https://placehold.co/128x128/fde047/ffffff?text=5️⃣",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Шесть",
+      "transliteration": "Shest'",
+      "korean": "여섯",
+      "image": "https://placehold.co/128x128/c084fc/ffffff?text=6️⃣",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Семь",
+      "transliteration": "Sem'",
+      "korean": "일곱",
+      "image": "https://placehold.co/128x128/fb7185/ffffff?text=7️⃣",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Восемь",
+      "transliteration": "Vosem'",
+      "korean": "여덟",
+      "image": "https://placehold.co/128x128/f472b6/ffffff?text=8️⃣",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Девять",
+      "transliteration": "Devyat'",
+      "korean": "아홉",
+      "image": "https://placehold.co/128x128/a78bfa/ffffff?text=9️⃣",
+      "ttsLang": "ru-RU"
+    },
+    {
+      "russian": "Десять",
+      "transliteration": "Desyat'",
+      "korean": "열",
+      "image": "https://placehold.co/128x128/60a5fa/ffffff?text=🔟",
+      "ttsLang": "ru-RU"
+    }
+  ]
+}

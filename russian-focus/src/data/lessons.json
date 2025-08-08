@@ -6,35 +6,43 @@
     "phrases": [
       {
         "ru": "Привет!",
-        "en": "Hi!"
+        "en": "Hi!",
+        "no": "Hei!"
       },
       {
         "ru": "Здравствуйте!",
-        "en": "Hello! (formal)"
+        "en": "Hello! (formal)",
+        "no": "God dag! (formell)"
       },
       {
         "ru": "Как дела?",
-        "en": "How are you?"
+        "en": "How are you?",
+        "no": "Hvordan har du det?"
       },
       {
         "ru": "Хорошо, спасибо.",
-        "en": "Good, thanks."
+        "en": "Good, thanks.",
+        "no": "Bra, takk."
       },
       {
         "ru": "Пожалуйста.",
-        "en": "Please / You're welcome."
+        "en": "Please / You're welcome.",
+        "no": "Takk / Vær så snill"
       },
       {
         "ru": "До свидания!",
-        "en": "Goodbye!"
+        "en": "Goodbye!",
+        "no": "Ha det!"
       },
       {
         "ru": "Увидимся!",
-        "en": "See you later!"
+        "en": "See you later!",
+        "no": "Vi sees senere!"
       },
       {
         "ru": "Спокойной ночи.",
-        "en": "Good night."
+        "en": "Good night.",
+        "no": "God natt."
       }
     ]
   },
@@ -45,35 +53,43 @@
     "phrases": [
       {
         "ru": "Да / Нет",
-        "en": "Yes / No"
+        "en": "Yes / No",
+        "no": "Ja / Nei"
       },
       {
         "ru": "Я из Норвегии.",
-        "en": "I am from Norway."
+        "en": "I am from Norway.",
+        "no": "Jeg er fra Norge."
       },
       {
         "ru": "Я изучаю русский.",
-        "en": "I am learning Russian."
+        "en": "I am learning Russian.",
+        "no": "Jeg lærer russisk."
       },
       {
         "ru": "Где туалет?",
-        "en": "Where is the toilet?"
+        "en": "Where is the toilet?",
+        "no": "Hvor er toalettet?"
       },
       {
         "ru": "Сколько это стоит?",
-        "en": "How much is this?"
+        "en": "How much is this?",
+        "no": "Hvor mye koster dette?"
       },
       {
         "ru": "Я не понимаю.",
-        "en": "I don't understand."
+        "en": "I don't understand.",
+        "no": "Jeg forstår ikke."
       },
       {
         "ru": "Повторите, пожалуйста.",
-        "en": "Please repeat."
+        "en": "Please repeat.",
+        "no": "Kan du gjenta det?"
       },
       {
         "ru": "Говорите медленнее.",
-        "en": "Speak slower."
+        "en": "Speak slower.",
+        "no": "Snakk saktere."
       }
     ]
   },
